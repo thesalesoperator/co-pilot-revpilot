@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "init backend server"
+# create a GitHub repo named e.g. close-crm-co-pilot-backend
+git remote add origin git@github.com:<your-username>/close-crm-co-pilot-backend.git
+git push -u origin main
